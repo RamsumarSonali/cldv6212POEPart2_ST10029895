@@ -1,0 +1,5 @@
+C:\Users\USER-PC\Documents\School\CLDV\B\POE Part 2\Functions\obj\Debug\net8.0\Functions.csproj.AssemblyReference.cache
+C:\Users\USER-PC\Documents\School\CLDV\B\POE Part 2\Functions\obj\Debug\net8.0\Functions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER-PC\Documents\School\CLDV\B\POE Part 2\Functions\obj\Debug\net8.0\Functions.AssemblyInfoInputs.cache
+C:\Users\USER-PC\Documents\School\CLDV\B\POE Part 2\Functions\obj\Debug\net8.0\Functions.AssemblyInfo.cs
+C:\Users\USER-PC\Documents\School\CLDV\B\POE Part 2\Functions\obj\Debug\net8.0\Functions.csproj.CoreCompileInputs.cache

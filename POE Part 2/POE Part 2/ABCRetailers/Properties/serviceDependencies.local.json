@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "storage1": {
+      "serviceConnectorResourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('serviceConnectorResourceGroupName')]/providers/Microsoft.ServiceLinker/locations/southafricanorth/connectors/StorageConnection_C78C99D8CC, /subscriptions/78e2fe8a-6190-42a9-abe3-8df7f9c00832/resourceGroups/cldv/providers/Microsoft.ServiceLinker/locations/southafricanorth/connectors/StorageConnection_205A77764A",
+      "secretStore": "LocalSecretsFile",
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.Storage/storageAccounts/cldvstorageaccount3",
+      "type": "storage.azure",
+      "connectionId": "StorageConnection",
+      "dynamicId": null
+    }
+  }
+}

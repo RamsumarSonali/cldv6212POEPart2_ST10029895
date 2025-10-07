@@ -1,0 +1,297 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Documents\\POE Part 2\\POE Part 2\\ABCRetailers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1EF96DBA-9DF5-4BDD-A214-25F5BD9637A1}|ABCRetailers.csproj|c:\\users\\user\\documents\\poe part 2\\poe part 2\\abcretailers\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1EF96DBA-9DF5-4BDD-A214-25F5BD9637A1}|ABCRetailers.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A378BD3-21B9-BC00-129D-07B147CDB186}|..\\Functions\\Functions.csproj|c:\\users\\user\\documents\\poe part 2\\poe part 2\\functions\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A378BD3-21B9-BC00-129D-07B147CDB186}|..\\Functions\\Functions.csproj|c:\\users\\user\\documents\\poe part 2\\poe part 2\\functions\\functions\\blobfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A378BD3-21B9-BC00-129D-07B147CDB186}|..\\Functions\\Functions.csproj|c:\\users\\user\\documents\\poe part 2\\poe part 2\\functions\\functions\\queuefunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A378BD3-21B9-BC00-129D-07B147CDB186}|..\\Functions\\Functions.csproj|c:\\users\\user\\documents\\poe part 2\\poe part 2\\functions\\functions\\filefunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A378BD3-21B9-BC00-129D-07B147CDB186}|..\\Functions\\Functions.csproj|c:\\users\\user\\documents\\poe part 2\\poe part 2\\functions\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A378BD3-21B9-BC00-129D-07B147CDB186}|..\\Functions\\Functions.csproj|c:\\users\\user\\documents\\poe part 2\\poe part 2\\functions\\functions\\tablestorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EF96DBA-9DF5-4BDD-A214-25F5BD9637A1}|ABCRetailers.csproj|c:\\users\\user\\documents\\poe part 2\\poe part 2\\abcretailers\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1EF96DBA-9DF5-4BDD-A214-25F5BD9637A1}|ABCRetailers.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EF96DBA-9DF5-4BDD-A214-25F5BD9637A1}|ABCRetailers.csproj|c:\\users\\user\\documents\\poe part 2\\poe part 2\\abcretailers\\services\\azurestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EF96DBA-9DF5-4BDD-A214-25F5BD9637A1}|ABCRetailers.csproj|solutionrelative:services\\azurestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A378BD3-21B9-BC00-129D-07B147CDB186}|..\\Functions\\Functions.csproj|c:\\users\\user\\documents\\poe part 2\\poe part 2\\functions\\function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A378BD3-21B9-BC00-129D-07B147CDB186}|..\\Functions\\Functions.csproj|c:\\users\\user\\documents\\poe part 2\\poe part 2\\functions\\function3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A378BD3-21B9-BC00-129D-07B147CDB186}|..\\Functions\\Functions.csproj|c:\\users\\user\\documents\\poe part 2\\poe part 2\\functions\\function2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A378BD3-21B9-BC00-129D-07B147CDB186}|..\\Functions\\Functions.csproj|c:\\users\\user\\documents\\poe part 2\\poe part 2\\functions\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\AppData\\Roaming\\Microsoft\\UserSecrets\\aspnet-ABCRetailers-12345\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EF96DBA-9DF5-4BDD-A214-25F5BD9637A1}|ABCRetailers.csproj|c:\\users\\user\\documents\\poe part 2\\poe part 2\\abcretailers\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EF96DBA-9DF5-4BDD-A214-25F5BD9637A1}|ABCRetailers.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EF96DBA-9DF5-4BDD-A214-25F5BD9637A1}|ABCRetailers.csproj|c:\\users\\user\\documents\\poe part 2\\poe part 2\\abcretailers\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EF96DBA-9DF5-4BDD-A214-25F5BD9637A1}|ABCRetailers.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EF96DBA-9DF5-4BDD-A214-25F5BD9637A1}|ABCRetailers.csproj|c:\\users\\user\\documents\\poe part 2\\poe part 2\\abcretailers\\models\\viewmodels\\ordercreateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EF96DBA-9DF5-4BDD-A214-25F5BD9637A1}|ABCRetailers.csproj|solutionrelative:models\\viewmodels\\ordercreateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER-PC\\AppData\\Roaming\\Microsoft\\UserSecrets\\aspnet-ABCRetailers-12345\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TableStorage.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\POE Part 2\\POE Part 2\\Functions\\Functions\\TableStorage.cs",
+              "RelativeDocumentMoniker": "..\\Functions\\Functions\\TableStorage.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\POE Part 2\\POE Part 2\\Functions\\Functions\\TableStorage.cs",
+              "RelativeToolTip": "..\\Functions\\Functions\\TableStorage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T20:24:33.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "QueueFunction.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\POE Part 2\\POE Part 2\\Functions\\Functions\\QueueFunction.cs",
+              "RelativeDocumentMoniker": "..\\Functions\\Functions\\QueueFunction.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\POE Part 2\\POE Part 2\\Functions\\Functions\\QueueFunction.cs",
+              "RelativeToolTip": "..\\Functions\\Functions\\QueueFunction.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAHEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T20:23:23.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FileFunction.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\POE Part 2\\POE Part 2\\Functions\\Functions\\FileFunction.cs",
+              "RelativeDocumentMoniker": "..\\Functions\\Functions\\FileFunction.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\POE Part 2\\POE Part 2\\Functions\\Functions\\FileFunction.cs",
+              "RelativeToolTip": "..\\Functions\\Functions\\FileFunction.cs",
+              "ViewState": "AgIAAIAAAAAAAAAAAADwv6UAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T20:22:27.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BlobFunction.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\POE Part 2\\POE Part 2\\Functions\\Functions\\BlobFunction.cs",
+              "RelativeDocumentMoniker": "..\\Functions\\Functions\\BlobFunction.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\POE Part 2\\POE Part 2\\Functions\\Functions\\BlobFunction.cs",
+              "RelativeToolTip": "..\\Functions\\Functions\\BlobFunction.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAIwLQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T20:20:10.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\POE Part 2\\POE Part 2\\ABCRetailers\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\USER\\Documents\\POE Part 2\\POE Part 2\\ABCRetailers\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-07T20:04:35.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AzureStorageService.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\POE Part 2\\POE Part 2\\ABCRetailers\\Services\\AzureStorageService.cs",
+              "RelativeDocumentMoniker": "Services\\AzureStorageService.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\POE Part 2\\POE Part 2\\ABCRetailers\\Services\\AzureStorageService.cs",
+              "RelativeToolTip": "Services\\AzureStorageService.cs",
+              "ViewState": "AgIAAKIAAAAAAAAAAAAzwL4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T19:37:56.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Function2.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\POE Part 2\\POE Part 2\\Functions\\Function2.cs",
+              "RelativeDocumentMoniker": "..\\Functions\\Function2.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\POE Part 2\\POE Part 2\\Functions\\Function2.cs",
+              "RelativeToolTip": "..\\Functions\\Function2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T19:36:34.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Function1.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\POE Part 2\\POE Part 2\\Functions\\Function1.cs",
+              "RelativeDocumentMoniker": "..\\Functions\\Function1.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\POE Part 2\\POE Part 2\\Functions\\Function1.cs",
+              "RelativeToolTip": "..\\Functions\\Function1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T19:15:11.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Function.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\POE Part 2\\POE Part 2\\Functions\\Function.cs",
+              "RelativeDocumentMoniker": "..\\Functions\\Function.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\POE Part 2\\POE Part 2\\Functions\\Function.cs",
+              "RelativeToolTip": "..\\Functions\\Function.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T19:15:11.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "local.settings.json",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\POE Part 2\\POE Part 2\\Functions\\local.settings.json",
+              "RelativeDocumentMoniker": "..\\Functions\\local.settings.json",
+              "ToolTip": "C:\\Users\\USER\\Documents\\POE Part 2\\POE Part 2\\Functions\\local.settings.json",
+              "RelativeToolTip": "..\\Functions\\local.settings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-07T18:55:36.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\POE Part 2\\POE Part 2\\ABCRetailers\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\USER\\Documents\\POE Part 2\\POE Part 2\\ABCRetailers\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-07T18:11:37.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\POE Part 2\\POE Part 2\\Functions\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "..\\Functions\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\POE Part 2\\POE Part 2\\Functions\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "..\\Functions\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T20:28:09.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "secrets.json",
+              "DocumentMoniker": "C:\\Users\\USER\\AppData\\Roaming\\Microsoft\\UserSecrets\\aspnet-ABCRetailers-12345\\secrets.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\aspnet-ABCRetailers-12345\\secrets.json",
+              "ToolTip": "C:\\Users\\USER\\AppData\\Roaming\\Microsoft\\UserSecrets\\aspnet-ABCRetailers-12345\\secrets.json",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\aspnet-ABCRetailers-12345\\secrets.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-07T18:53:11.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\POE Part 2\\POE Part 2\\ABCRetailers\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\POE Part 2\\POE Part 2\\ABCRetailers\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T18:21:01.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\POE Part 2\\POE Part 2\\ABCRetailers\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\POE Part 2\\POE Part 2\\ABCRetailers\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T18:17:09.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Function3.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\POE Part 2\\POE Part 2\\Functions\\Function3.cs",
+              "RelativeDocumentMoniker": "..\\Functions\\Function3.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\POE Part 2\\POE Part 2\\Functions\\Function3.cs",
+              "RelativeToolTip": "..\\Functions\\Function3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T19:36:35.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "OrderCreateViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\POE Part 2\\POE Part 2\\ABCRetailers\\Models\\ViewModels\\OrderCreateViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ViewModels\\OrderCreateViewModel.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\POE Part 2\\POE Part 2\\ABCRetailers\\Models\\ViewModels\\OrderCreateViewModel.cs",
+              "RelativeToolTip": "Models\\ViewModels\\OrderCreateViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T18:14:11.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "secrets.json",
+              "DocumentMoniker": "C:\\Users\\USER-PC\\AppData\\Roaming\\Microsoft\\UserSecrets\\aspnet-ABCRetailers-12345\\secrets.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\USER-PC\\AppData\\Roaming\\Microsoft\\UserSecrets\\aspnet-ABCRetailers-12345\\secrets.json",
+              "ToolTip": "C:\\Users\\USER-PC\\AppData\\Roaming\\Microsoft\\UserSecrets\\aspnet-ABCRetailers-12345\\secrets.json",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\USER-PC\\AppData\\Roaming\\Microsoft\\UserSecrets\\aspnet-ABCRetailers-12345\\secrets.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAADOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-07T15:22:54.402Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

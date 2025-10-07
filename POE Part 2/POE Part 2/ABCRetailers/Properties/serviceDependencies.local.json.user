@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "storage1": {
+      "restored": true,
+      "restoreTime": "2025-10-07T19:36:15.5935996Z"
+    }
+  },
+  "parameters": {
+    "storage1.serviceConnectorResourceGroupName": {
+      "Name": "storage1.serviceConnectorResourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "cldv"
+    },
+    "storage1.resourceGroupName": {
+      "Name": "storage1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "cldv"
+    },
+    "storage1.subscriptionId": {
+      "Name": "storage1.subscriptionId",
+      "Type": "subscription",
+      "Value": "78e2fe8a-6190-42a9-abe3-8df7f9c00832"
+    }
+  }
+}

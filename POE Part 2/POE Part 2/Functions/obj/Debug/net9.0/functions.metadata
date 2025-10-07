@@ -1,0 +1,369 @@
+[
+  {
+    "name": "UploadProductImage",
+    "scriptFile": "Functions.dll",
+    "entryPoint": "ABCRetailersFunctions.Functions.BlobFunction.UploadProductImage",
+    "language": "dotnet-isolated",
+    "properties": {
+      "IsCodeless": false
+    },
+    "bindings": [
+      {
+        "name": "req",
+        "direction": "In",
+        "type": "httpTrigger",
+        "authLevel": "Function",
+        "methods": [
+          "post"
+        ],
+        "route": "images/product",
+        "properties": {}
+      },
+      {
+        "name": "$return",
+        "type": "http",
+        "direction": "Out"
+      }
+    ]
+  },
+  {
+    "name": "UploadPaymentProof",
+    "scriptFile": "Functions.dll",
+    "entryPoint": "ABCRetailersFunctions.Functions.BlobFunction.UploadPaymentProof",
+    "language": "dotnet-isolated",
+    "properties": {
+      "IsCodeless": false
+    },
+    "bindings": [
+      {
+        "name": "req",
+        "direction": "In",
+        "type": "httpTrigger",
+        "authLevel": "Function",
+        "methods": [
+          "post"
+        ],
+        "route": "files/payment-proof",
+        "properties": {}
+      },
+      {
+        "name": "$return",
+        "type": "http",
+        "direction": "Out"
+      }
+    ]
+  },
+  {
+    "name": "UploadContractFile",
+    "scriptFile": "Functions.dll",
+    "entryPoint": "ABCRetailersFunctions.Functions.FileShareFunction.Proof",
+    "language": "dotnet-isolated",
+    "properties": {
+      "IsCodeless": false
+    },
+    "bindings": [
+      {
+        "name": "req",
+        "direction": "In",
+        "type": "httpTrigger",
+        "authLevel": "Anonymous",
+        "methods": [
+          "post"
+        ],
+        "route": "uploads/proof-of-payment",
+        "properties": {}
+      },
+      {
+        "name": "$return",
+        "type": "http",
+        "direction": "Out"
+      }
+    ]
+  },
+  {
+    "name": "DownloadContractFile",
+    "scriptFile": "Functions.dll",
+    "entryPoint": "ABCRetailersFunctions.Functions.FileShareFunction.DownloadContractFile",
+    "language": "dotnet-isolated",
+    "properties": {
+      "IsCodeless": false
+    },
+    "bindings": [
+      {
+        "name": "req",
+        "direction": "In",
+        "type": "httpTrigger",
+        "authLevel": "Function",
+        "methods": [
+          "get"
+        ],
+        "route": "files/contracts/{fileName}",
+        "properties": {}
+      },
+      {
+        "name": "$return",
+        "type": "http",
+        "direction": "Out"
+      }
+    ]
+  },
+  {
+    "name": "ListContractFiles",
+    "scriptFile": "Functions.dll",
+    "entryPoint": "ABCRetailersFunctions.Functions.FileShareFunction.ListContractFiles",
+    "language": "dotnet-isolated",
+    "properties": {
+      "IsCodeless": false
+    },
+    "bindings": [
+      {
+        "name": "req",
+        "direction": "In",
+        "type": "httpTrigger",
+        "authLevel": "Function",
+        "methods": [
+          "get"
+        ],
+        "route": "files/contracts",
+        "properties": {}
+      },
+      {
+        "name": "$return",
+        "type": "http",
+        "direction": "Out"
+      }
+    ]
+  },
+  {
+    "name": "ProcessOrderNotifications",
+    "scriptFile": "Functions.dll",
+    "entryPoint": "ABCRetailersFunctions.Functions.QueueFunction.ProcessOrderNotifications",
+    "language": "dotnet-isolated",
+    "properties": {
+      "IsCodeless": false
+    },
+    "bindings": [
+      {
+        "name": "queueMessage",
+        "direction": "In",
+        "type": "queueTrigger",
+        "dataType": "String",
+        "queueName": "order-notifications",
+        "connection": "AzureStorageConnection",
+        "properties": {}
+      }
+    ]
+  },
+  {
+    "name": "ProcessStockUpdates",
+    "scriptFile": "Functions.dll",
+    "entryPoint": "ABCRetailersFunctions.Functions.QueueFunction.ProcessStockUpdates",
+    "language": "dotnet-isolated",
+    "properties": {
+      "IsCodeless": false
+    },
+    "bindings": [
+      {
+        "name": "queueMessage",
+        "direction": "In",
+        "type": "queueTrigger",
+        "dataType": "String",
+        "queueName": "stock-updates",
+        "connection": "AzureStorageConnection",
+        "properties": {}
+      }
+    ]
+  },
+  {
+    "name": "SendToQueue",
+    "scriptFile": "Functions.dll",
+    "entryPoint": "ABCRetailersFunctions.Functions.QueueFunction.SendToQueue",
+    "language": "dotnet-isolated",
+    "properties": {
+      "IsCodeless": false
+    },
+    "bindings": [
+      {
+        "name": "req",
+        "direction": "In",
+        "type": "httpTrigger",
+        "authLevel": "Function",
+        "methods": [
+          "post"
+        ],
+        "route": "queue/{queueName}",
+        "properties": {}
+      },
+      {
+        "name": "$return",
+        "type": "http",
+        "direction": "Out"
+      }
+    ]
+  },
+  {
+    "name": "StoreCustomer",
+    "scriptFile": "Functions.dll",
+    "entryPoint": "ABCRetailersFunctions.Functions.TableFunction.StoreCustomer",
+    "language": "dotnet-isolated",
+    "properties": {
+      "IsCodeless": false
+    },
+    "bindings": [
+      {
+        "name": "req",
+        "direction": "In",
+        "type": "httpTrigger",
+        "authLevel": "Function",
+        "methods": [
+          "post"
+        ],
+        "route": "customers",
+        "properties": {}
+      },
+      {
+        "name": "$return",
+        "type": "http",
+        "direction": "Out"
+      }
+    ]
+  },
+  {
+    "name": "StoreProduct",
+    "scriptFile": "Functions.dll",
+    "entryPoint": "ABCRetailersFunctions.Functions.TableFunction.StoreProduct",
+    "language": "dotnet-isolated",
+    "properties": {
+      "IsCodeless": false
+    },
+    "bindings": [
+      {
+        "name": "req",
+        "direction": "In",
+        "type": "httpTrigger",
+        "authLevel": "Function",
+        "methods": [
+          "post"
+        ],
+        "route": "products",
+        "properties": {}
+      },
+      {
+        "name": "$return",
+        "type": "http",
+        "direction": "Out"
+      }
+    ]
+  },
+  {
+    "name": "StoreOrder",
+    "scriptFile": "Functions.dll",
+    "entryPoint": "ABCRetailersFunctions.Functions.TableFunction.StoreOrder",
+    "language": "dotnet-isolated",
+    "properties": {
+      "IsCodeless": false
+    },
+    "bindings": [
+      {
+        "name": "req",
+        "direction": "In",
+        "type": "httpTrigger",
+        "authLevel": "Function",
+        "methods": [
+          "post"
+        ],
+        "route": "orders",
+        "properties": {}
+      },
+      {
+        "name": "$return",
+        "type": "http",
+        "direction": "Out"
+      }
+    ]
+  },
+  {
+    "name": "Function",
+    "scriptFile": "Functions.dll",
+    "entryPoint": "Functions.Function.Run",
+    "language": "dotnet-isolated",
+    "properties": {
+      "IsCodeless": false
+    },
+    "bindings": [
+      {
+        "name": "stream",
+        "direction": "In",
+        "type": "blobTrigger",
+        "path": "samples-workitems/{name}",
+        "connection": "AzureWebJobsStorage",
+        "properties": {
+          "supportsDeferredBinding": "True"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Function1",
+    "scriptFile": "Functions.dll",
+    "entryPoint": "Functions.Function1.Run",
+    "language": "dotnet-isolated",
+    "properties": {
+      "IsCodeless": false
+    },
+    "bindings": [
+      {
+        "name": "message",
+        "direction": "In",
+        "type": "queueTrigger",
+        "queueName": "myqueue-items",
+        "connection": "AzureWebJobsStorage",
+        "properties": {
+          "supportsDeferredBinding": "True"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Function2",
+    "scriptFile": "Functions.dll",
+    "entryPoint": "Functions.Function2.Run",
+    "language": "dotnet-isolated",
+    "properties": {
+      "IsCodeless": false
+    },
+    "bindings": [
+      {
+        "name": "stream",
+        "direction": "In",
+        "type": "blobTrigger",
+        "path": "samples-workitems/{name}",
+        "connection": "AzureWebJobsStorage",
+        "properties": {
+          "supportsDeferredBinding": "True"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Function3",
+    "scriptFile": "Functions.dll",
+    "entryPoint": "Functions.Function3.Run",
+    "language": "dotnet-isolated",
+    "properties": {
+      "IsCodeless": false
+    },
+    "bindings": [
+      {
+        "name": "message",
+        "direction": "In",
+        "type": "queueTrigger",
+        "queueName": "myqueue-items",
+        "connection": "AzureWebJobsStorage",
+        "properties": {
+          "supportsDeferredBinding": "True"
+        }
+      }
+    ]
+  }
+]
